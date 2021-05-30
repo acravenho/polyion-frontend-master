@@ -100,7 +100,7 @@ const FarmedStakingCard = () => {
               address: token,
               symbol: 'LION',
               decimals: '18',
-              image: 'https://www.polyion.finance/images/egg/3.png',
+              image: 'https://www.polyion.net/images/egg/3.png',
             },
           },
         })
