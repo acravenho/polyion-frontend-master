@@ -48,6 +48,10 @@ const config: MenuEntry[] = [
         label: 'QuickSwap',
         href: 'https://info.quickswap.exchange/token/0x63802aF1f00eEA04Ab93b49B19581177bc5CA104',
       },
+      {
+        label: 'PolyChart',
+        href: 'https://app.polychart.io/explorer/polygon/0x51ed72c3b89a042385e53e4ee85fea18d210ff61',
+      }
     ],
   },
   {
