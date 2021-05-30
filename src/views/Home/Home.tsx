@@ -93,7 +93,7 @@ const Home: React.FC = () => {
   return (
     <Page>
       <Heading as="h1" size="xl" mb="24px" color="secondary" >
-          {TranslateString(579, 'Yield Farming begins in:')}
+          {TranslateString(579, 'Yield Farming starts in:')}
         </Heading> 
       <Timer />
       <Hero>
